@@ -1,2 +1,2 @@
 # TransactionService
-This service implement all method for managing account and opeations on it in our application.
+This sevice implements all method for managing account and its opeations  in our virtual bank.
